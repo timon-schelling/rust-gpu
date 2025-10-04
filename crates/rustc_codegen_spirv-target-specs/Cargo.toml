@@ -8,6 +8,7 @@ license.workspace = true
 repository.workspace = true
 
 [features]
+default = ["include_str"]
 include_str = []
 dir_path = []
 serde = ["dep:serde"]
