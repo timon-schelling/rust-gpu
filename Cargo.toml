@@ -49,6 +49,7 @@ authors = ["rust-gpu developers", "Embark <opensource@embark-studios.com>"]
 edition = "2024"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/rust-gpu/rust-gpu"
+readme = "README.md"
 keywords = ["gpu", "compiler", "rust-gpu"]
 
 [workspace.lints.rust]
